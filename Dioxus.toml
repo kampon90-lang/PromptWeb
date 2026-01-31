@@ -7,7 +7,7 @@ title = "promptweb"
 
 # include `assets` in web platform
 [web.resource]
-
+base_path = "/PromptWeb/"
 # Additional CSS style files
 style = []
 
