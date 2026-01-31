@@ -1,0 +1,54 @@
+{
+  "cli_version": "0.7.3 (was built without git repository)",
+  "rust_version": "rustc 1.93.0 (254b59607 2026-01-19)",
+  "assets": {
+    "assets": {
+      "C:\\Users\\kampon_seamakhoo\\Desktop\\Tsnew\\promptweb\\assets\\main.css": [
+        {
+          "absolute_source_path": "C:\\Users\\kampon_seamakhoo\\Desktop\\Tsnew\\promptweb\\assets\\main.css",
+          "bundled_path": "main-dxhcdfbb32460c3f1f7.css",
+          "options": {
+            "add_hash": true,
+            "variant": "Unknown"
+          }
+        }
+      ],
+      "C:\\Users\\kampon_seamakhoo\\Desktop\\Tsnew\\promptweb\\assets\\tailwind.css": [
+        {
+          "absolute_source_path": "C:\\Users\\kampon_seamakhoo\\Desktop\\Tsnew\\promptweb\\assets\\tailwind.css",
+          "bundled_path": "tailwind-dxh1f9ca755274df394.css",
+          "options": {
+            "add_hash": true,
+            "variant": "Unknown"
+          }
+        }
+      ],
+      "C:\\Users\\kampon_seamakhoo\\Desktop\\Tsnew\\promptweb\\target\\dx\\promptweb\\release\\web\\public\\wasm\\promptweb.js": [
+        {
+          "absolute_source_path": "C:\\Users\\kampon_seamakhoo\\Desktop\\Tsnew\\promptweb\\target\\dx\\promptweb\\release\\web\\public\\wasm\\promptweb.js",
+          "bundled_path": "promptweb-dxh8b953c6140d1c7ce.js",
+          "options": {
+            "add_hash": true,
+            "variant": {
+              "Js": {
+                "minify": true,
+                "preload": true,
+                "static_head": false
+              }
+            }
+          }
+        }
+      ],
+      "C:\\Users\\kampon_seamakhoo\\Desktop\\Tsnew\\promptweb\\target\\dx\\promptweb\\release\\web\\public\\wasm\\promptweb_bg.wasm": [
+        {
+          "absolute_source_path": "C:\\Users\\kampon_seamakhoo\\Desktop\\Tsnew\\promptweb\\target\\dx\\promptweb\\release\\web\\public\\wasm\\promptweb_bg.wasm",
+          "bundled_path": "promptweb_bg-dxh4fb5fbd36356b734.wasm",
+          "options": {
+            "add_hash": true,
+            "variant": "Unknown"
+          }
+        }
+      ]
+    }
+  }
+}
