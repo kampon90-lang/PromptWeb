@@ -26,7 +26,7 @@
       "C:\\Users\\kampon_seamakhoo\\Desktop\\Tsnew\\promptweb\\target\\dx\\promptweb\\release\\web\\public\\wasm\\promptweb.js": [
         {
           "absolute_source_path": "C:\\Users\\kampon_seamakhoo\\Desktop\\Tsnew\\promptweb\\target\\dx\\promptweb\\release\\web\\public\\wasm\\promptweb.js",
-          "bundled_path": "promptweb-dxh85639df68aef8aa.js",
+          "bundled_path": "promptweb-dxhff59ace99bc4d8c.js",
           "options": {
             "add_hash": true,
             "variant": {
@@ -42,7 +42,7 @@
       "C:\\Users\\kampon_seamakhoo\\Desktop\\Tsnew\\promptweb\\target\\dx\\promptweb\\release\\web\\public\\wasm\\promptweb_bg.wasm": [
         {
           "absolute_source_path": "C:\\Users\\kampon_seamakhoo\\Desktop\\Tsnew\\promptweb\\target\\dx\\promptweb\\release\\web\\public\\wasm\\promptweb_bg.wasm",
-          "bundled_path": "promptweb_bg-dxhc85243dc4bcd2459.wasm",
+          "bundled_path": "promptweb_bg-dxh23429391ced3c32.wasm",
           "options": {
             "add_hash": true,
             "variant": "Unknown"
