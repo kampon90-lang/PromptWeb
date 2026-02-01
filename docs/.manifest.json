@@ -16,7 +16,7 @@
       "C:\\Users\\kampon_seamakhoo\\Desktop\\Tsnew\\promptweb\\assets\\tailwind.css": [
         {
           "absolute_source_path": "C:\\Users\\kampon_seamakhoo\\Desktop\\Tsnew\\promptweb\\assets\\tailwind.css",
-          "bundled_path": "tailwind-dxhb35e966bffe176b9.css",
+          "bundled_path": "tailwind-dxh1f9ca755274df394.css",
           "options": {
             "add_hash": true,
             "variant": "Unknown"
@@ -26,7 +26,7 @@
       "C:\\Users\\kampon_seamakhoo\\Desktop\\Tsnew\\promptweb\\target\\dx\\promptweb\\release\\web\\public\\wasm\\promptweb.js": [
         {
           "absolute_source_path": "C:\\Users\\kampon_seamakhoo\\Desktop\\Tsnew\\promptweb\\target\\dx\\promptweb\\release\\web\\public\\wasm\\promptweb.js",
-          "bundled_path": "promptweb-dxh6bf1925c879cd4f3.js",
+          "bundled_path": "promptweb-dxh85639df68aef8aa.js",
           "options": {
             "add_hash": true,
             "variant": {
@@ -42,7 +42,7 @@
       "C:\\Users\\kampon_seamakhoo\\Desktop\\Tsnew\\promptweb\\target\\dx\\promptweb\\release\\web\\public\\wasm\\promptweb_bg.wasm": [
         {
           "absolute_source_path": "C:\\Users\\kampon_seamakhoo\\Desktop\\Tsnew\\promptweb\\target\\dx\\promptweb\\release\\web\\public\\wasm\\promptweb_bg.wasm",
-          "bundled_path": "promptweb_bg-dxh1d7638aec645a95a.wasm",
+          "bundled_path": "promptweb_bg-dxhc85243dc4bcd2459.wasm",
           "options": {
             "add_hash": true,
             "variant": "Unknown"
